@@ -1,0 +1,8 @@
+{
+	"name": "ezon/test", 
+	"description": "test code",
+	"require": {
+		"php": "^5.5.9 || ^7.0",
+		"another-vendor/package": "1.*"
+	}
+}

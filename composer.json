@@ -1,5 +1,5 @@
 {
-	"name": "ezon/test", 
+	"name": "ezion/test", 
 	"description": "test code",
 	"require": {
 		"php": "^5.5.9 || ^7.0",
